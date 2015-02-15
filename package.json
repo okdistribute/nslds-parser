@@ -1,0 +1,24 @@
+{
+  "name": "nslds-parser",
+  "version": "1.0.0",
+  "description": "national student loan data system parser for https://www.nslds.ed.g",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karissa/nslds-parser.git"
+  },
+  "keywords": [
+    "student",
+    "debt",
+    "data"
+  ],
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/karissa/nslds-parser/issues"
+  },
+  "homepage": "https://github.com/karissa/nslds-parser"
+}
