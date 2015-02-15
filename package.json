@@ -1,7 +1,7 @@
 {
   "name": "nslds-parser",
   "version": "1.0.0",
-  "description": "national student loan data system parser for https://www.nslds.ed.g",
+  "description": "national student loan data system parser for https://www.nslds.ed.gov",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
