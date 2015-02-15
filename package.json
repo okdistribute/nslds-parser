@@ -4,7 +4,7 @@
   "description": "national student loan data system parser for https://www.nslds.ed.g",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/karissa/nslds-parser/issues"
   },
-  "homepage": "https://github.com/karissa/nslds-parser"
+  "homepage": "https://github.com/karissa/nslds-parser",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "dependencies": {
+    "csv-parser": "^1.5.0",
+    "minimist": "^1.1.0"
+  }
 }
